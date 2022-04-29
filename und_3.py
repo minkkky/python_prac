@@ -1,6 +1,8 @@
 import pygame as pg
 import random
 
+
+
 # 색상 정의
 BLACK = (0,0,0)
 WHITE = (255,255,255)
