@@ -10,4 +10,9 @@ python과 git의 기초 학습을 목적으로 pygame을 이용하여 제작됨 
 
 
 ## 실행 파일 다운로드 링크
-[구글 드라이브](https://drive.google.com/file/d/1ygfdbGht6VO2k9I9gMclSkxB4Dh6ywJE/view?usp=sharing) (24.6MB)
+[🔗구글 드라이브](https://drive.google.com/file/d/1ygfdbGht6VO2k9I9gMclSkxB4Dh6ywJE/view?usp=sharing) (24.6MB)
+
+
+
+### Credit
+bgm & se https://www.bensound.com
