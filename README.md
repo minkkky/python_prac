@@ -1,5 +1,5 @@
-# 파이썬으로 제작한 간단한 업 앤 다운 게임
-python과 git의 기초 학습을 목적으로 pygame을 이용하여 제작됨 (2022.04)  
+# simple up down game
+python과 git의 기초 학습을 목적으로 pygame을 이용하여 제작됨 (2022.04.25~26)  
 코드 리팩터링 & pyinstaller를 이용하여 실행 파일 작성 (2022.11)  
 　  
 ## 실행 화면
