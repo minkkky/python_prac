@@ -14,4 +14,5 @@ python과 git의 기초 학습을 목적으로 pygame을 이용하여 제작됨 
 　  
 　  
 ## 📌 Credit
-bgm & se https://www.bensound.com
+🎵bgm https://www.bensound.com
+🎶se https://www.sellbuymusic.com/search/soundeffect
